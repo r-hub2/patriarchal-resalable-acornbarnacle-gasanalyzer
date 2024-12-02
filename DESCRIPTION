@@ -30,7 +30,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-12-02 00:23:11 UTC; danny
+Packaged: 2024-12-02 00:28:37 UTC; danny
 Author: Danny Tholen [aut, cre] (<https://orcid.org/0000-0002-9517-0939>,
     University of Natural Resources and Life Sciences, Vienna)
 Maintainer: Danny Tholen <thalecress+p@gmail.com>
