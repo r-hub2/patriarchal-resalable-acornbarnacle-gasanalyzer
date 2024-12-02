@@ -1,3 +1,9 @@
+# gasanalyzer 0.4.2
+* Minor update
+  - Make xlsx import handle spreadsheet errors better
+  - Fix an bug with equation list when UseFlags were not the last list entry
+  - Fix CRAN check error with a test
+  
 # gasanalyzer 0.4.1
 * Minor update
   - setup test infrastructure (not many useful unit tests added yet)
@@ -5,6 +11,7 @@
   - Add option to modulate the relative humidity in the leaf
   - reorder some variables in more logical categories 
   - Fix loading of some LI6800 files
+  - Make file loading in examples more platform independent
   - Updated description and refer to the publication about the package
   
 # gasanalyzer 0.4.0
