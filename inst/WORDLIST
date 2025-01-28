@@ -1,5 +1,6 @@
 Acta
 Agarwal
+Amesbury
 AoB
 BBA
 BOM
@@ -7,8 +8,10 @@ Biochimica
 Biophysica
 Biosciences
 Briantais
+Bristow
 CIRAS
 Caemmerer
+Cernusak
 ESS
 Ely
 Farquhar
@@ -16,6 +19,7 @@ GFS
 GasanalyzeR
 Genty
 GmbH
+Gratch
 Hiebert
 JA
 KJ
@@ -32,15 +36,18 @@ Pebesma
 Photosynth
 Physiol
 Phytol
+Phytologist
 Planta
 Putten
 RStudio
 Roback
 Rtools
 Sharkey
+Siebke
 Stinziano
 Struik
 Tazoe
+UseFlags
 Walz
 XT
 absorptance
@@ -55,6 +62,7 @@ conductances
 csv
 cuticula
 cuticular
+cuvettes
 datetime
 der
 df
@@ -62,6 +70,7 @@ doi
 dontrun
 ecoinf
 ecophysiologists
+emissivity
 eqs
 et
 evapotranspiration
@@ -73,7 +82,8 @@ gitlab
 gz
 https
 intercellular
-li
+irradiance
+isotopologues
 licor
 mesophyll
 mol
@@ -87,11 +97,16 @@ plotmath
 porometer
 pre
 quosures
+radiative
 resubmission
+stomata
 stomatal
 subfolders
+substomatal
 sw
 textrm
+th
+thermocouple
 tibble
 tibbles
 triose

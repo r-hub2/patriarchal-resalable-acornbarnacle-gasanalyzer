@@ -1,3 +1,9 @@
+# gasanalyzer 0.4.3
+* Minor update
+  - Work around undefined behaviors caused by the units package
+  - Add methods for boundary layer conductance calculations
+  - Add missing detailed help for create_equations
+  
 # gasanalyzer 0.4.2
 * Minor update
   - Make xlsx import handle spreadsheet errors better
