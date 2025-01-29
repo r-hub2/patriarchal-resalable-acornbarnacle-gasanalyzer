@@ -1,9 +1,9 @@
 # gasanalyzer 0.4.3
 * Minor update
-  - Work around undefined behaviors caused by the units package
+  - Work around undefined behaviors when using empty vectors with units
   - Add methods for boundary layer conductance calculations
   - Add missing detailed help for create_equations
-  - Fix another incorrect timing related test failure
+  - Fix another incorrect timing related potential test failure
   
 # gasanalyzer 0.4.2
 * Minor update
